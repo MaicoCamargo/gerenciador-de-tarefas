@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('gerenciador-de-tarefas App', () => {
+describe('gerenciador-de-listar App', () => {
   let page: AppPage;
 
   beforeEach(() => {
