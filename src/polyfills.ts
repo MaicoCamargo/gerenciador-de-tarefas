@@ -54,7 +54,8 @@ import 'core-js/es7/reflect';
  * Zone JS is required by Angular itself.
  */
 import 'zone.js/dist/zone';  // Included with Angular CLI.
-
+import 'rxjs/add/operator/map'; // importes necessarios para vincular com back
+import 'rxjs/add/operator/catch';
 
 
 /***************************************************************************************************
